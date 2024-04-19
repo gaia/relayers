@@ -9,10 +9,6 @@
     "supportRelayerBy": "Staking with us or at least with another validator outside of the top 33% in voting power!",
     "chainsRelayed": [
         {
-            "ticker": "ATOM",
-            "relayerAddress": "cosmos14gra89zm8753pfuhvujjulmtkf2qq70feykca5"
-        },
-        {
             "ticker": "OSMO",
             "relayerAddress": "osmo14gra89zm8753pfuhvujjulmtkf2qq70f3l9gtx"
         },
